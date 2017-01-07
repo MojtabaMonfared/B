@@ -19,12 +19,10 @@ third, you need to add your token in line 18 `B.py` and edit something in main s
 Now you should run this script by `python B.py`
 and send this command to bot `/create YOUR-TOKEN`
 :trollface:
-
 if you have any question or want to report bug
 tell me in [telegram](https://telegram.me/MojtabaMonfared)
 or
 open an [issue](https://github.com/MojtabaMonfared/B/issues)
 
 ##GoodLuck
-> plz use becarefully xD
->> MojtabaMonfared
+> MojtabaMonfared
